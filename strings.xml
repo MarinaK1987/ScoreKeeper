@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AmericanFootball</string>
+    <string name="TeamA6points_str">+6 points</string>
+    <string name="TeamA3points_str">+3 points</string>
+    <string name="TeamA2points_str">+2 points</string>
+    <string name="TeamB6points_str">+6 points</string>
+    <string name="TeamB3points_str">+3 points</string>
+    <string name="TeamB2points_str">+2 points</string>
+    <string name="TeamA_str">Team A</string>
+    <string name="TeamB_str">Team B</string>
+</resources>
